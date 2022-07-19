@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1478633204 source:c:\users\eduardo\documents\usp\estrutura de dados\vers√o definitiva trabalho\estatico\projeto ed - est·tico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"static_menu.h"
+	"static_stack.h"
+	"static_queue.h"
+	"static_tree.h"
+
+1478645841 c:\users\eduardo\documents\usp\estrutura de dados\vers√o definitiva trabalho\estatico\projeto ed - est·tico\static_menu.h
+	"static_stack.h"
+	"static_queue.h"
+	"static_tree.h"
+
+1478627278 c:\users\eduardo\documents\usp\estrutura de dados\vers√o definitiva trabalho\estatico\projeto ed - est·tico\static_stack.h
+
+1478625622 c:\users\eduardo\documents\usp\estrutura de dados\vers√o definitiva trabalho\estatico\projeto ed - est·tico\static_queue.h
+
+1478633019 c:\users\eduardo\documents\usp\estrutura de dados\vers√o definitiva trabalho\estatico\projeto ed - est·tico\static_tree.h
+	"static_stack.h"
+	"static_queue.h"
+
+1478648754 source:c:\users\eduardo\documents\usp\estrutura de dados\vers√o definitiva trabalho\estatico\projeto ed - est·tico\static_menu.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"static_stack.h"
+	"static_queue.h"
+	"static_tree.h"
+	"static_menu.h"
+
+1478625622 source:c:\users\eduardo\documents\usp\estrutura de dados\vers√o definitiva trabalho\estatico\projeto ed - est·tico\static_queue.c
+	<stdio.h>
+	<string.h>
+	"static_queue.h"
+	<stdio.h>
+
+1478625622 source:c:\users\eduardo\documents\usp\estrutura de dados\vers√o definitiva trabalho\estatico\projeto ed - est·tico\static_stack.c
+	<stdio.h>
+	<stdlib.h>
+	"static_stack.h"
+	<string.h>
+
+1478645069 source:c:\users\eduardo\documents\usp\estrutura de dados\vers√o definitiva trabalho\estatico\projeto ed - est·tico\static_tree.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"static_stack.h"
+	"static_queue.h"
+	"static_tree.h"
+
